@@ -1,0 +1,30 @@
+<html>
+  <head>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-$">
+    <title>GIT</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Dave Haskell - IS 5315 Sec. #Monday</h1>
+      <h2>What is GIT? Why do we need source code Version Control System?</h2>
+      <p>
+        GIT is a Distributed Version Control System (DVCS) which allows clients to mirror a project's file repository, including its version history. This allows project participants to collaborate on the deliverables of a project, while enabling administrators to control access and modification rights to project files.  Additionally, unlike Local Version Control Systems, which exist exclusively on the client system, or Centralized Version Control Systems, which are a single point of failure when they go down, Distributed Version Control Systems provide redundancies and backups of the project files (via the mirrored file repositories on each client system) so that a failure of any given system does not prevent clients from continuing to work and the project's files are protected against data loss.<sup>1</sup>All of the above is why we need to use a Version Control System (VCS).  It provides backups, tracks changes, allows users and administrators to return to earlier versions of project releases or individual project files, and allows collaboration as multiple people can work on the same files while merging changes back into the remote repository.<sup>2</sup>
+      </p>
+      <h2>Describe following terms: 1) local repo 2) remote repo 3) how to use GIT in Team Project - multiple developers work on the same project at the same time.</h2>
+      <p>
+        Remote repositories are the files of a project, along with version histories, stored on the network or the internet. Data files can be checked out of the remote repository and pulled by a client into a local repository, where a mirror image of the remote repository is maintained, thus allowing a project member to work on project files whether or not network access is maintained. When a client is ready to update a new version of the file, the local repository files are checked in and merged into the remote repository.<sup>3</sup> When multiple developers are working on a project in GIT, the current project files are kept in a Master branch, with project developers working off of development branches which they clone to their local repositories. When a developer seeks to make a modification to a file, it is checked out in the remote repository and discrete features are modified in a local branch. Upon completion, the changes are pushed or merged back into the remote repository.  When a project release is ready, a new release branch is created with the project files in the DEV branch.  When the production release has been certified, the release branch is merged into the master branch.<sup>4</sup>
+      </p>
+    </div>
+
+    <div class="container">
+      <h1>References</h1>
+       <ol type="1">
+        <li>https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control</li>
+        <li>https://www.git-tower.com/learn/git/ebook/en/desktop-gui/basics/why-use-version-control</li>
+        <li>https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes</li>
+        <li>https://stackoverflow.com/questions/14865283/proper-git-workflow-scheme-with-multiple-developers-working-on-same-task#14869475</li>
+      </ol> 
+    </div>
+
+  </body>
+</html>
