@@ -7,6 +7,7 @@
       <joining_date>2016/09/01</joining_date>
       <office>Renton</office>
       <extension>1111</extension>
+      <password>seeyouinchurch</password>
     </data>
     <data>
       <name>Drew Nordstrom</name>
@@ -15,6 +16,7 @@
       <joining_date>2016/09/02</joining_date>
       <office>Seattle</office>
       <extension>2222</extension>
+      <password>uberuber</password>
     </data>
     <data>
       <name>An Tran</name>
@@ -23,6 +25,7 @@
       <joining_date>2019/09/03</joining_date>
       <office>Saigon</office>
       <extension>3333</extension>
+      <password>outtamyleague</password>
     </data>
     <data>
       <name>Anna Bai</name>
@@ -31,6 +34,7 @@
       <joining_date>2019/09/04</joining_date>
       <office>Beijing</office>
       <extension>4444</extension>
+      <password>smograve</password>
     </data>
     <data>
       <name>Cathy Ko</name>
@@ -39,6 +43,7 @@
       <joining_date>2019/09/05</joining_date>
       <office>Redmond</office>
       <extension>5555</extension>
+      <password>TaiwanStraight</password>
     </data>
     <data>
       <name>Katie Clark</name>
@@ -47,6 +52,7 @@
       <joining_date>2008/10/10</joining_date>
       <office>Chico</office>
       <extension>6666</extension>
+      <password>hotline74</password>
     </data>
     <data>
       <name>Katie Cava</name>
@@ -55,6 +61,7 @@
       <joining_date>2019/09/06</joining_date>
       <office>Ballard</office>
       <extension>7777</extension>
+      <password>imsobeautiful</password>
     </data>
     <data>
       <name>Laurie Clark</name>
@@ -63,6 +70,7 @@
       <joining_date>2019/09/07</joining_date>
       <office>Portland</office>
       <extension>8888</extension>
+      <password>gloiter75</password>
     </data>
     <data>
       <name>Carrie Clark</name>
@@ -71,6 +79,7 @@
       <joining_date>2019/09/08</joining_date>
       <office>Georgetown</office>
       <extension>9999</extension>
+      <password>redbug70</password>
     </data>
     <data>
       <name>Damon Novelli</name>
@@ -79,6 +88,7 @@
       <joining_date>2019/09/09</joining_date>
       <office>Georgetown</office>
       <extension>1010</extension>
+      <password>RiskyBusiness</password>
     </data>
     <data>
       <name>Susan Corcoran</name>
@@ -87,6 +97,7 @@
       <joining_date>1988/09/01</joining_date>
       <office>Capitol Hill</office>
       <extension>1011</extension>
+      <password>babybaby</password>
     </data>
     <data>
       <name>Tony</name>
@@ -95,6 +106,7 @@
       <joining_date>1955/01/01</joining_date>
       <office>Bengali</office>
       <extension>1212</extension>
+      <password>bitebitebite</password>
     </data>
     <data>
       <name>Rory Calhoun</name>
@@ -103,6 +115,7 @@
       <joining_date>1955/12/31</joining_date>
       <office>Hollywood</office>
       <extension>1313</extension>
+      <password>standandwalk</password>
     </data>
     <data>
       <name>Rainbow</name>
@@ -111,6 +124,7 @@
       <joining_date>1966/07/17</joining_date>
       <office>Tulsa</office>
       <extension>1414</extension>
+      <password>ungabunga</password>
     </data>
     <data>
       <name>Nanook</name>
@@ -119,5 +133,6 @@
       <joining_date>1927/01/01</joining_date>
       <office>North</office>
       <extension>1515</extension>
+      <password>iceicebaby</password>
     </data>
   </employees>
