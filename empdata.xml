@@ -6,8 +6,8 @@
       <salary>$150,000</salary>
       <joining_date>2016/09/01</joining_date>
       <office>Renton</office>
-      <extension>1111</extension>
       <pwd>seeyouinchurch</pwd>
+      <extension>1111</extension>
     </data>
     <data>
       <name>Drew Nordstrom</name>
@@ -15,8 +15,8 @@
       <salary>$300,000</salary>
       <joining_date>2016/09/02</joining_date>
       <office>Seattle</office>
-      <extension>2222</extension>
       <pwd>uberuber</pwd>
+      <extension>2222</extension>
     </data>
     <data>
       <name>An Tran</name>
@@ -24,8 +24,8 @@
       <salary>$200,000</salary>
       <joining_date>2019/09/03</joining_date>
       <office>Saigon</office>
-      <extension>3333</extension>
       <pwd>outtamyleague</pwd>
+      <extension>3333</extension>
     </data>
     <data>
       <name>Anna Bai</name>
@@ -33,8 +33,8 @@
       <salary>$190,000</salary>
       <joining_date>2019/09/04</joining_date>
       <office>Beijing</office>
-      <extension>4444</extension>
       <pwd>smograve</pwd>
+      <extension>4444</extension>
     </data>
     <data>
       <name>Cathy Ko</name>
@@ -42,8 +42,8 @@
       <salary>$400,000</salary>
       <joining_date>2019/09/05</joining_date>
       <office>Redmond</office>
-      <extension>5555</extension>
       <pwd>TaiwanStraight</pwd>
+      <extension>5555</extension>
     </data>
     <data>
       <name>Katie Clark</name>
@@ -51,8 +51,8 @@
       <salary>$110,000</salary>
       <joining_date>2008/10/10</joining_date>
       <office>Chico</office>
-      <extension>6666</extension>
       <pwd>hotline74</pwd>
+      <extension>6666</extension>
     </data>
     <data>
       <name>Katie Cava</name>
@@ -60,8 +60,8 @@
       <salary>$115,000</salary>
       <joining_date>2019/09/06</joining_date>
       <office>Ballard</office>
-      <extension>7777</extension>
       <pwd>imsobeautiful</pwd>
+      <extension>7777</extension>
     </data>
     <data>
       <name>Laurie Clark</name>
@@ -69,8 +69,8 @@
       <salary>$90,000</salary>
       <joining_date>2019/09/07</joining_date>
       <office>Portland</office>
-      <extension>8888</extension>
       <pwd>gloiter75</pwd>
+      <extension>8888</extension>
     </data>
     <data>
       <name>Carrie Clark</name>
@@ -78,8 +78,8 @@
       <salary>$50,000</salary>
       <joining_date>2019/09/08</joining_date>
       <office>Georgetown</office>
-      <extension>9999</extension>
       <pwd>redbug70</pwd>
+      <extension>9999</extension>
     </data>
     <data>
       <name>Damon Novelli</name>
@@ -87,8 +87,8 @@
       <salary>$500,000</salary>
       <joining_date>2019/09/09</joining_date>
       <office>Georgetown</office>
-      <extension>1010</extension>
       <pwd>RiskyBusiness</pwd>
+      <extension>1010</extension>
     </data>
     <data>
       <name>Susan Corcoran</name>
@@ -96,8 +96,8 @@
       <salary>$500,000</salary>
       <joining_date>1988/09/01</joining_date>
       <office>Capitol Hill</office>
-      <extension>1011</extension>
       <pwd>babybaby</pwd>
+      <extension>1011</extension>
     </data>
     <data>
       <name>Tony</name>
@@ -105,8 +105,8 @@
       <salary>$1,000,000</salary>
       <joining_date>1955/01/01</joining_date>
       <office>Bengali</office>
-      <extension>1212</extension>
       <pwd>bitebitebite</pwd>
+      <extension>1212</extension>
     </data>
     <data>
       <name>Rory Calhoun</name>
@@ -114,8 +114,8 @@
       <salary>$1,100,100</salary>
       <joining_date>1955/12/31</joining_date>
       <office>Hollywood</office>
-      <extension>1313</extension>
       <pwd>standandwalk</pwd>
+      <extension>1313</extension>
     </data>
     <data>
       <name>Rainbow</name>
@@ -123,8 +123,8 @@
       <salary>$90,560</salary>
       <joining_date>1966/07/17</joining_date>
       <office>Tulsa</office>
-      <extension>1414</extension>
       <pwd>ungabunga</pwd>
+      <extension>1414</extension>
     </data>
     <data>
       <name>Nanook</name>
@@ -132,7 +132,7 @@
       <salary>$500</salary>
       <joining_date>1927/01/01</joining_date>
       <office>North</office>
-      <extension>1515</extension>
       <pwd>iceicebaby</pwd>
+      <extension>1515</extension>
     </data>
   </employees>
